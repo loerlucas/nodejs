@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    padding: 2em;
+}
+h1{
+    color: navy;
+}
+a{
+    color: black;
+    font-size: larger;
+}
